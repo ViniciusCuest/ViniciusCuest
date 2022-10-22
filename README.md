@@ -91,7 +91,6 @@
          <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="30" />
       </a>
 </div>
-<br>
 <h2>📱 Contacts</h2>
 <div align="center">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
