@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-   <h4> • Intern at Compass.UOL 🤟</h4>
+   <h4> • Dev at Compass.UOL 🤟</h4>
    <img src="https://compass.uol/etc.clientlibs/compass/clientlibs/clientlib-react/resources/static/media/logo.d35fe3b1.svg"/>
 </div>
 
@@ -22,7 +22,7 @@
 ###
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning nextJS, C, Java and AWS.
+- 🌱 I’m currently learning nextJS, GraphQL, NestJS and AWS
 - 👯 I’m looking to collaborate on any position.
 - 💬 Ask me about anything you want/need.
 - 📫 How to reach me: Contact me in my social medias.
